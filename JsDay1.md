@@ -29,7 +29,7 @@ x = 4; //can be updated
 ```javascript
 var name = "Htet";
 var name = "Kyaw"; // No error
-console.log(name); // Bob
+console.log(name); // Kyaw
 
 var message = "Hello";
 console.log(message); // Output: Hello
